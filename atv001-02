@@ -1,0 +1,83 @@
+
+// ============================================================
+//   ATIVIDADE 01.1 – Variáveis e Tipos Primitivos em JavaScript
+// ============================================================
+// Instruções: resolva cada exercício no espaço indicado.
+// Use console.log() para exibir os resultados.
+// ============================================================
+
+// ------------------------------------------------------------
+// EXERCÍCIO 1 – Apresentação criativa
+// ------------------------------------------------------------
+// Crie variáveis para nome, idade e hobby favorito.
+// Monte uma frase usando template literal que se apresente e diga o que gosta de fazer.
+
+// → Seu código aqui:
+
+var nome = ("kaua")
+let idade1 = ("19")
+const hobby = ("jogar videogame")
+console.log("Me chamo "+  nome, "tenho " +  idade1, ("anos"), "e gosto de " + hobby);
+
+// ------------------------------------------------------------
+// EXERCÍCIO 2 – Frase sobre clima
+// ------------------------------------------------------------
+// Crie variáveis para cidade e temperatura atual (número).
+// Use template literal para criar uma frase como:
+// "Hoje em <cidade> está fazendo <temperatura>°C, perfeito para ..."
+
+// → Seu código aqui:
+
+var cidade = ("Jaraguá do Sul")
+var temperatura = ("30")
+console.log("Hoje em "+ cidade, "esta fazendo "+temperatura,("°C, igual todos os outros dias..."));
+
+// ------------------------------------------------------------
+// EXERCÍCIO 3 – Tipos primitivos em frases
+// ------------------------------------------------------------
+// Crie uma variável de cada tipo primitivo: string, number, boolean, undefined, null.
+// Para cada uma, exiba uma frase usando template literal que diga o valor e o tipo.
+
+// → Seu código aqui:
+
+let texto = "Olá, mundo!";
+let numero = 42;
+let boolean = 
+
+console.log("_______________________________");
+
+// ------------------------------------------------------------
+// EXERCÍCIO 4 – Mini história
+// ------------------------------------------------------------
+// Crie variáveis para personagem, idade, cidade e missão.
+// Monte uma frase usando template literal contando uma mini história com esses dados.
+
+// → Seu código aqui:
+var nome = ("José")
+let idade2 = ("20")
+var cidade2 = ("José dos Pinhais")
+const missão = ("zerar a vida")
+
+console.log("era uma vez um personagem chamado "+ nome, "de "+idade2,"anos. Ele morava em "+ cidade2,"e sua missão era " +missão);
+
+// ------------------------------------------------------------
+// EXERCÍCIO 5 – Mensagem motivacional
+// ------------------------------------------------------------
+// Crie uma variável com seu nome e outra com um objetivo para este ano.
+// Use template literal para criar uma mensagem motivacional personalizada.
+
+// → Seu código aqui:
+var meunome = "Kauã"
+var objetivo = "Se formar"
+
+console.log("Prazer, meu nome é "+ meunome, "e meu objetivo esse ano é "+objetivo,".");
+
+// ------------------------------------------------------------
+// EXERCÍCIO 6 – Menu
+// ------------------------------------------------------------
+// Utilizando apenas console.log(), reproduza o menu que esta na imagem "exemplo-menu-atividade-01-2" anexa junto a esta atividade
+
+// → Seu código aqui:
+
+
+console.log("_______________________________");
